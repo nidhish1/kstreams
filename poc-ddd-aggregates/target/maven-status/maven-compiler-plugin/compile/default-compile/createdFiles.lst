@@ -1,0 +1,13 @@
+io/debezium/examples/aggregation/model/CustomerAddressAggregate.class
+io/debezium/examples/aggregation/serdes/JsonHybridDeserializer.class
+io/debezium/examples/aggregation/serdes/JsonPojoSerializer.class
+io/debezium/examples/aggregation/model/DefaultId$IdDeserializer.class
+io/debezium/examples/aggregation/model/EventType.class
+io/debezium/examples/aggregation/model/Customer.class
+io/debezium/examples/aggregation/model/Addresses.class
+io/debezium/examples/aggregation/model/Address.class
+io/debezium/examples/aggregation/model/DefaultId$IdSerializer.class
+io/debezium/examples/aggregation/StreamingAggregatesDDD.class
+io/debezium/examples/aggregation/model/DefaultId.class
+io/debezium/examples/aggregation/serdes/SerdeFactory.class
+io/debezium/examples/aggregation/model/LatestAddress.class

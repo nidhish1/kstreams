@@ -1,0 +1,11 @@
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/EventType.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/DefaultId.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/Customer.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/LatestAddress.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/CustomerAddressAggregate.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/Address.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/model/Addresses.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/serdes/JsonHybridDeserializer.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/serdes/JsonPojoSerializer.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/StreamingAggregatesDDD.java
+/home/vortex/Desktop/debezium-examples/kstreams/poc-ddd-aggregates/src/main/java/io/debezium/examples/aggregation/serdes/SerdeFactory.java
